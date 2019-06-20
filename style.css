@@ -1,0 +1,28 @@
+aside {
+    float: left;
+    width:30%;
+    background-color: #ccc;
+}
+
+section {
+    float: right;
+    width: 70%
+}
+
+.head{
+    text-align:center;
+}
+
+.name {
+    text-align:center;
+}
+
+.head  img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.record {
+    text-align:center;
+}
